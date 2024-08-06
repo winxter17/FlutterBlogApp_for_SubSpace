@@ -1,4 +1,4 @@
-#Flutter blog app
+<h1>Flutter blog app</h1>
 
 This is a blog app made using flutter and bloc with the help of SubSpace api for dummy blogs.
 
